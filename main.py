@@ -4,10 +4,10 @@
 The entry is one image that sums up the world news of Wednesday
 18 November 2026, drawn as a newspaper front page: a dated masthead over
 six illustrated stories -- the APEC summit opening in Shenzhen, US and
-Iranian strikes traded over the Gulf, Ukraine's strike on the Crimean
-Bridge, Nvidia's record $116bn quarter as Anthropic's market debut
-priced, the Gaza ceasefire warning, and Voyager 1 nearing one light-day
-from Earth.
+Iranian strikes traded over the Gulf, Ukraine's destruction of the
+Crimean Bridge, Nvidia's record $115.8bn quarter as its chief executive
+exits amid an SEC probe and Anthropic's market debut prices, the Gaza
+ceasefire warning, and Voyager 1 crossing one light-day from Earth.
 
 The picture itself is committed beside this file as ``entry.png`` (a
 whole PNG, 1024 x 1024, well under the 1 MiB gate). This program's job

@@ -9,15 +9,15 @@ newspaper front page: a dated masthead over six illustrated stories of the day �
 
 - **China · Diplomacy** — the APEC summit opens in Shenzhen; Xi hosts Asia-Pacific
   leaders while Trump stops in Manila for Quad talks on his way to China
-- **The Gulf · Security** — Iran and the US trade strikes: drones hit a US radar in
-  Bahrain, the US strikes back on Qeshm, and a tanker is struck in the Strait of Hormuz
-- **Ukraine · War** — Ukraine strikes the Crimean Bridge again as Russian strikes
+- **The Gulf · Security** — Iran and the US trade strikes: drones target a US radar in
+  Bahrain, the US strikes back on Qeshm, and tankers burn in the Strait of Hormuz
+- **Ukraine · War** — Ukraine destroys the Crimean Bridge again as Russian strikes
   pound bridges in Kyiv
-- **Markets · AI** — Nvidia posts a record $116bn quarter and Anthropic's
-  stock-market debut prices the same day
+- **Markets · AI** — Nvidia posts a record $115.8bn quarter as its chief executive
+  exits amid an SEC probe, and Anthropic's stock-market debut prices the same day
 - **Gaza · Humanitarian** — the peace board warns the ceasefire is near collapse
   while aid kitchens ration hot meals to one every two days
-- **Space · NASA** — Voyager 1, launched in 1977, closes on one full light-day
+- **Space · NASA** — Voyager 1, launched in 1977, crosses one full light-day
   from Earth
 
 The program is `main.py` (Python 3.13, standard library only): it validates the
